@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Ejercicio3
+comment1.params=cx\ cy\ tx\ ty
+comment1.target=java.lang.String\ esValida(int,\ int,\ int,\ int)
+comment2.params=n\ m\ cx\ cy\ tx\ ty
+comment2.target=java.lang.String\ simular(int,\ int,\ int,\ int,\ int,\ int)
+comment3.params=cx\ cy\ tx\ ty
+comment3.target=java.lang.String\ simular(int,\ int,\ int,\ int)
+numComments=4
